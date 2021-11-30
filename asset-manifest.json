@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-hw-9.1-nav-menu/static/css/main.dbb5ccb1.chunk.css",
+    "main.js": "/ra-hw-9.1-nav-menu/static/js/main.665d0f09.chunk.js",
+    "main.js.map": "/ra-hw-9.1-nav-menu/static/js/main.665d0f09.chunk.js.map",
+    "runtime-main.js": "/ra-hw-9.1-nav-menu/static/js/runtime-main.9a3005b6.js",
+    "runtime-main.js.map": "/ra-hw-9.1-nav-menu/static/js/runtime-main.9a3005b6.js.map",
+    "static/js/2.3140484c.chunk.js": "/ra-hw-9.1-nav-menu/static/js/2.3140484c.chunk.js",
+    "static/js/2.3140484c.chunk.js.map": "/ra-hw-9.1-nav-menu/static/js/2.3140484c.chunk.js.map",
+    "static/js/3.38153029.chunk.js": "/ra-hw-9.1-nav-menu/static/js/3.38153029.chunk.js",
+    "static/js/3.38153029.chunk.js.map": "/ra-hw-9.1-nav-menu/static/js/3.38153029.chunk.js.map",
+    "index.html": "/ra-hw-9.1-nav-menu/index.html",
+    "static/css/main.dbb5ccb1.chunk.css.map": "/ra-hw-9.1-nav-menu/static/css/main.dbb5ccb1.chunk.css.map",
+    "static/js/2.3140484c.chunk.js.LICENSE.txt": "/ra-hw-9.1-nav-menu/static/js/2.3140484c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a3005b6.js",
+    "static/js/2.3140484c.chunk.js",
+    "static/css/main.dbb5ccb1.chunk.css",
+    "static/js/main.665d0f09.chunk.js"
+  ]
+}
